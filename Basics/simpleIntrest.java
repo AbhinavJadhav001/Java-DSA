@@ -1,4 +1,4 @@
-package Day01;
+package Basics;
 import java.util.Scanner;
 
 public class simpleIntrest {

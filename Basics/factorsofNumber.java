@@ -1,4 +1,4 @@
-package Day03;
+package Basics;
 import java.util.Scanner;
 public class factorsofNumber {
     public static void main(String[] args) {

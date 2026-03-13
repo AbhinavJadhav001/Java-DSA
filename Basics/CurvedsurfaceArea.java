@@ -1,4 +1,4 @@
-package Day06;
+package Basics;
 import java.util.Scanner;
 public class CurvedsurfaceArea {
     public static void main(String[] args) {

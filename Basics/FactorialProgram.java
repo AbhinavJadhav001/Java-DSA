@@ -1,4 +1,4 @@
-package Day04;
+package Basics;
 import java.util.Scanner;
 public class FactorialProgram {
     public static void main(String[] args) {
